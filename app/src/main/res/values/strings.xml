@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Base De Datos Adrian</string>
+    <string name="action_settings">Settings</string>
+    <string name="serie">Serie del auto</string>
+    <string name="modelo">Modelo o marca</string>
+    <string name="direccion">Dirección</string>
+
+
+
+    <string name="guarda">Guarda</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
